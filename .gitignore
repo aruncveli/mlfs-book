@@ -166,3 +166,5 @@ cython_debug/
 
 snurran.sh
 .DS_Store
+
+.idea
